@@ -1,0 +1,7 @@
+.header {
+	background: rgb(239,241,243) !important;
+}
+.header .header-content .header-center .header-title {
+	color: black !important;
+	text-shadow: 1px 1px rgb(239,241,243) !important;
+}
